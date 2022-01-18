@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "mongooseURL": "",
+    "guildId": "",
+    "channelId": "",
+    "welcomeChannelId": "",
+    "byeChannelId": "",
+    "botPath": "",
+    "logChannelId": ""
+}
